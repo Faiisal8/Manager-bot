@@ -25,7 +25,9 @@ JSON > config.json
 
 ```json
 {
- test
+    "env": {
+        "DATABASE": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    },
 }
 ```
 
