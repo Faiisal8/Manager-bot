@@ -15,7 +15,6 @@
 7. npm i moment
 8. npm i mongoose
 9. npm i nodemon 
-<br />
 
 ## Preview
 
