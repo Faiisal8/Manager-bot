@@ -17,11 +17,6 @@
 9. npm i nodemon 
 <br />
 <br />
-<br />
-
-
-
-
 
  > Preview
  
