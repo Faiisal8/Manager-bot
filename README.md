@@ -1,8 +1,9 @@
 # Manager-bot
 
+> Preview
 ![Ex1](https://user-images.githubusercontent.com/73163422/167236713-c080ba51-658a-4bb6-b073-bb461d10071e.png)
 
-
+> Preview
 ![Ex](https://user-images.githubusercontent.com/73163422/167236734-6e5a8923-e313-4418-9bce-4bf46366933d.png)
 
 
