@@ -1,5 +1,17 @@
 # Manager-bot
 
+## Before starting install requirements
+
+1. npm init -y 
+2. npm i
+3. npm i discord.js
+4. npm i ascii-table
+5. npm i dayjs
+6. npm i discord-modals
+7. npm i moment
+8. npm i mongoose
+9. npm i nodemon
+
  > Preview
  
 ![Ex1](https://user-images.githubusercontent.com/73163422/167236713-c080ba51-658a-4bb6-b073-bb461d10071e.png)
