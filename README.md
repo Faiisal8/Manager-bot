@@ -1,3 +1,13 @@
-![Ex1](https://user-images.githubusercontent.com/73163422/167236683-decdc248-ef81-4edf-b4ab-9c178ef6bcd1.png)
-![Ex](https://user-images.githubusercontent.com/73163422/167236687-bffc2d3a-745b-4ea5-9039-d92d0007e47a.png)
 # Manager-bot
+
+![Ex1](https://user-images.githubusercontent.com/73163422/167236713-c080ba51-658a-4bb6-b073-bb461d10071e.png)
+
+
+![Ex](https://user-images.githubusercontent.com/73163422/167236734-6e5a8923-e313-4418-9bce-4bf46366933d.png)
+
+
+
+تحتاج داتا بيس mongodb
+![Ex2](https://user-images.githubusercontent.com/73163422/167236757-ef684325-d28f-40d4-985c-f4a4787ab9bd.png)
+تحط الرابط هنا
+
