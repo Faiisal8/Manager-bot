@@ -14,8 +14,10 @@
 6. npm i discord-modals
 7. npm i moment
 8. npm i mongoose
-9. npm i nodemon <br />
-
+9. npm i nodemon 
+<br />
+<br />
+<br />
 
 
 
