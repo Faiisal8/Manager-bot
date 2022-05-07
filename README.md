@@ -16,7 +16,6 @@
 8. npm i mongoose
 9. npm i nodemon 
 <br />
-<br />
 
 ## Preview
 
