@@ -52,7 +52,7 @@ Put database link here
 ```
 <br />
 
-[my discord](https://discord.com/users/757509151390957618)
+[My discord](https://discord.com/users/757509151390957618)
 
 
 
