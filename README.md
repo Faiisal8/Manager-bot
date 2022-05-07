@@ -51,7 +51,7 @@ Put database link here
 }
 ```
 <br />
-(My Discord)[https://discordapp.com/users/757509151390957618]
+[My Discord](https://discordapp.com/users/757509151390957618)
 
 
 
