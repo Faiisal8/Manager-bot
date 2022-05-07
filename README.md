@@ -1,5 +1,9 @@
 # Manager-bot
 
+
+
+
+
 ## Before starting install requirements
 
 1. npm init -y 
@@ -11,6 +15,11 @@
 7. npm i moment
 8. npm i mongoose
 9. npm i nodemon
+
+
+
+
+
 
  > Preview
  
