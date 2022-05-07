@@ -1,0 +1,12 @@
+{
+    "env": {
+        "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "prefix": "x",
+        "DATABASE": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "owners": ["xxxxxxxxxxxxxx"]
+    },
+    "client": {
+        "channelID": "xxxxxxxxxxxxxx",
+        "errorChannel": "xxxxxxxxxxxxxx"
+    }
+}
